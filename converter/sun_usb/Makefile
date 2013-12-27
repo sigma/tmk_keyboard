@@ -9,6 +9,7 @@ TARGET_DIR = .
 
 # keyboard dependent files
 SRC =	keymap.c \
+	keymap_common.c \
 	matrix.c \
 	led.c \
 	command_extra.c \

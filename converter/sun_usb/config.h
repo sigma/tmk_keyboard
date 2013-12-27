@@ -36,9 +36,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     keyboard_report->mods == (MOD_BIT(KC_LSHIFT) | MOD_BIT(KC_RSHIFT)) \
 )
 
-/* legacy keymap support */
-#define USE_LEGACY_KEYMAP
-
 
 /* Serial(USART) configuration
  *     asynchronous, negative logic, 1200baud, no flow control
