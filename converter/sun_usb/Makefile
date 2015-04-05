@@ -64,6 +64,8 @@ MOUSEKEY_ENABLE = yes	# Mouse keys
 EXTRAKEY_ENABLE = yes	# Audio control and System control
 CONSOLE_ENABLE = yes	# Console for debug
 #NKRO_ENABLE = yes	# USB Nkey Rollover
+BOOTMAGIC_ENABLE = yes
+COMMAND_ENABLE = yes
 
 
 # Boot Section Size in bytes
