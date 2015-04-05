@@ -8,7 +8,7 @@ TOP_DIR = ../..
 TARGET_DIR = .
 
 # keyboard dependent files
-SRC =	keymap.c \
+SRC =	keymap_sigma_unix.c \
 	keymap_common.c \
 	matrix.c \
 	led.c \
